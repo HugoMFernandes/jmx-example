@@ -1,0 +1,1 @@
+Simple JMX connection example for a friend.
